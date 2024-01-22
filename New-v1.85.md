@@ -1,10 +1,10 @@
 {
-"Title": "#اطلاعیه",
-"Description": "لطفا برای حمایت و دریافت فیلترشکن بیشتر عضو کانال ما بشید ❤️ (ما داریم زحمت میکشیم)",
-"Link": "tg://resolve?domain=Vpn_Shield",
-"ColorWave": "#FFFF00",
-"Color": "#FFFF00",
-"ColorWaveTwo": "#FFD600",
+"Title": "❌ پول کتاب و جزوه ندید ❌",
+"Description": "- جزوه و کتاب پولی هر درسی رو خواستيد رایگان رایگان راحت از اینجا دانلود کنید 😱😍\nگاج و خیلی سبز ازشون شکایت کردن ، بزن رو عضویت 👇🏻",
+"Link": "tg://join?invite=v5mNYw0g5NAxNWE0",
+"ColorWave": "#F44336",
+"Color": "#F44336",
+"ColorWaveTwo": "#D50000",
 "ColorBackGround": "#ffffff",
 "TitleGravity": "center",
 "MessageGravity": "center",
@@ -15,10 +15,10 @@
 "ColorBtnCancell": "#ffffff",
 "ColorBtnCancellBg": "#e90000",
 "Cancellable": "true",
-"MessageID": "082164912",
-"ShowTime": "2",
-"Button": "   عضویت در کانال  ",
-"ButtonCancell": " حمایت نمیکنم ",
+"MessageID": "001183518929",
+"ShowTime": "3",
+"Button": " عضویت فوری ",
+"ButtonCancell": " نمیخوام ",
 "Closure": "true",
 "Show": "on"
 }
